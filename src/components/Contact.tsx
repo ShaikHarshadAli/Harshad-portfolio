@@ -11,14 +11,14 @@ const Contact = () => {
       link: "mailto:shailharshadali98838@gmail.com",
       color: "from-blue-500 to-blue-600"
     },
-    {
-      icon: <Calendar className="w-6 h-6" />,
-      title: "Schedule a Call",
-      description: "Let's discuss your project",
-      value: "Book a Meeting",
-      link: "https://forms.gle/EkmhFt8depwcdrv47",
-      color: "from-green-500 to-green-600"
-    },
+    // {
+    //   icon: <Calendar className="w-6 h-6" />,
+    //   title: "Schedule a Call",
+    //   description: "Let's discuss your project",
+    //   value: "Book a Meeting",
+    //   link: "https://forms.gle/EkmhFt8depwcdrv47",
+    //   color: "from-green-500 to-green-600"
+    // },
     {
       icon: <Github className="w-6 h-6" />,
       title: "GitHub",
@@ -97,14 +97,14 @@ const Contact = () => {
               Send Email
             </a>
             
-            <a
+            {/* <a
               href="https://forms.gle/EkmhFt8depwcdrv47"
               target="_blank"
               rel="noopener noreferrer"
               className="border border-purple-600 text-purple-400 px-8 py-4 rounded-lg font-medium hover:bg-purple-600/10 transition-all duration-300"
             >
               Schedule Call
-            </a>
+            </a> */}
           </div>
         </div>
       </div>

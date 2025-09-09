@@ -53,7 +53,7 @@ const Hero = () => {
               <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform duration-200" />
             </button>
             
-            <a
+            {/* <a
               href="https://forms.gle/EkmhFt8depwcdrv47"
               target="_blank"
               rel="noopener noreferrer"
@@ -61,7 +61,7 @@ const Hero = () => {
             >
               <Calendar size={20} />
               Book a 1-on-1
-            </a>
+            </a> */}
           </div>
         </div>
       </div>

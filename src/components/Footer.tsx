@@ -105,14 +105,14 @@ const Footer = () => {
               >
                 shailharshadali98838@gmail.com
               </a>
-              <a
+              {/* <a
                 href="https://forms.gle/EkmhFt8depwcdrv47"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-purple-400 transition-colors duration-200 block"
               >
                 Schedule a Call
-              </a>
+              </a> */}
             </div>
           </div>
         </div>
